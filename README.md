@@ -83,10 +83,6 @@ public class Sivaprasad {
   <img src="https://leetcard.jacoblin.cool/siva264842?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprasad264842&bg_color=0d1117&color=e6edf3&line=c9a227&point=f5e6b8&area=true&area_color=c9a227&hide_border=true" />
-</p>
-
 ### ◆ Contribution Snake
 
 <p align="center">
